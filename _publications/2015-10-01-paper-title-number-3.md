@@ -2,7 +2,7 @@
 title: "Multi-layer Clustering-based Residual Sparsifying Transform for Low-dose CT Image Reconstruction"
 collection: publications
 permalink: /publication/2022-MCST
-date: 2022-03
+date: 2022-03-01
 venue: 'Journal 3'
 paperurl: '[Submitted to Medical Physics](https://arxiv.org/abs/2203.11565)'
 ---

@@ -2,7 +2,7 @@
 title: "CPSC: Conformal prediction with shrunken centroids for efficient prediction reliability quantification and data augmentation, a case in alternative herbal medicine classification with electronic nose"
 collection: publications
 permalink: /publication/2021-CPSC
-date: 2021-11
+date: 2021-11-01
 venue: 'Journal 2'
 paperurl: '[IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/abstract/document/9667498)'
 ---

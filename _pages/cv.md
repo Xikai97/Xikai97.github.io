@@ -33,15 +33,15 @@ Publications
   
 Presentations
 ======
-* Oral Presentation in *16th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine
-(online), * Jul.2021
-* Oral Presentation in *6th International Conference on Image Formation in X-Ray Computed Tomography (online), * Jul.2020
+* Oral Presentation in 16th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine
+(online), Jul.2021
+* Oral Presentation in 6th International Conference on Image Formation in X-Ray Computed Tomography (online), Jul.2020
 * Poster Presentation in the workshop on Computational Imaging held by the Institute for Mathematics and itsApplications
 (IMA) in the University of Minnesota, Twin Cities, USA. Oct.2019
 
 Professional Activity
 ======
-* Serve as a reviewer of **IEEE Transactions on Computational Imaging
+* Serve as a reviewer of IEEE Transactions on Computational Imaging
   
  
 Teaching

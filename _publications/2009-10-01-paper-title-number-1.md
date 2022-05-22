@@ -2,7 +2,7 @@
 title: "Multi-layer Residual Sparsifying Transform (MARS) Model for Low-dose CT Image Reconstruction"
 collection: publications
 permalink: /publication/2021-MARS
-date: 2021-06
+date: 2021-06-01
 venue: 'Journal 1'
 paperurl: '[Medical Physics](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15013)'
 ---

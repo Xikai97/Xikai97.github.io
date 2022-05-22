@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Engineering, Zhejiang University, 2019
+* M.S. in Electronic Science and Technology, Shanghai Jiao Tong University, 2022
+* Admitted in Ph.D program with Computer Science and Engineering Department, Chinese University of Hong Kong, 2022
 
-Work experience
+Scholarship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Outstanding Graduate of Shanghai, 2022
+* Graduate National Scholarship (top 2%), 2021
+* KLA & and Ya Dong Scholarship (10 selected prize-winners in all around 360 graduated students), 2021
+* Zhejiang Provincial Government Scholarship, 2018
+* First-Class Scholarship for Outstanding Merits of Zhejiang University, 2018
+* Excellent Student Awards of Zhejiang University, 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +31,33 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Oral Presentation in *16th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine
+(online), * Jul.2021
+* Oral Presentation in *6th International Conference on Image Formation in X-Ray Computed Tomography (online), * Jul.2020
+* Poster Presentation in the workshop on Computational Imaging held by the Institute for Mathematics and itsApplications
+(IMA) in the University of Minnesota, Twin Cities, USA. Oct.2019
+
+Professional Activity
+======
+* Serve as a reviewer of **IEEE Transactions on Computational Imaging
   
+ 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching assistant (Head TA) for VE216 (Intro to signals and systems), May.2021 
   
-Service and leadership
+ Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming: Python, Matlab, C++
+
+Social Activity
+======
+* Member, Support Education Team to West Region of Chu Kochen Honors College, July.2016 
+
+Hobbies
+======
+* Basketball, Swimming, Badminton
+  
+

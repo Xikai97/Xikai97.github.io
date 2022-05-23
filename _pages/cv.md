@@ -31,7 +31,7 @@ Honors & Awards
 * Excellent Student Awards of Zhejiang University, 2017
 
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

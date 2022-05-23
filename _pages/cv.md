@@ -23,7 +23,7 @@ Education
 
 Honors & Awards
 ======
-* Outstanding Graduates Award, Shanghai, 2022
+* Outstanding Graduates Award, Shanghai Jiao Tong University, 2022
 * Graduate National Scholarship (top 2%), 2021
 * KLA & and Ya Dong Scholarship (10 selected prize-winners in all around 360 graduated students), 2021
 * Zhejiang Provincial Government Scholarship, 2018

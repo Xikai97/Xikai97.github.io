@@ -9,15 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+* Tel: +86 18735189701
+* Email: yangxk@sjtu.edu.cn
+* Wechat: yangxk6565189
+
 Education
 ======
-* B.S. in Information Engineering, Zhejiang University, 2019
-* M.S. in Electronic Science and Technology, Shanghai Jiao Tong University, 2022
+* B.S. in Information Engineering, Chu Kochen Honors College, Zhejiang University, 2019
+* M.S. in Electronic Science and Technology, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2022
 * Admitted in Ph.D program with Computer Science and Engineering Department, Chinese University of Hong Kong, 2022
 
-Scholarship
+Honors & Awards
 ======
-* Outstanding Graduate of Shanghai, 2022
+* Outstanding Graduates Award, Shanghai, 2022
 * Graduate National Scholarship (top 2%), 2021
 * KLA & and Ya Dong Scholarship (10 selected prize-winners in all around 360 graduated students), 2021
 * Zhejiang Provincial Government Scholarship, 2018

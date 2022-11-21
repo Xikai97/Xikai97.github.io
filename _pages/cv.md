@@ -11,8 +11,8 @@ redirect_from:
 
 Contact
 ======
-* Tel: +86 18735189701
-* Email: yangxk@sjtu.edu.cn
+* Tel: +852 51021009
+* Email: xkyang22@cse.cuhk.edu.hk
 * Wechat: yangxk6565189
 
 Education
@@ -52,11 +52,15 @@ Professional Activity
  
 Teaching
 ======
+* Teaching assistant (Head TA) for ENGG 2760A (Probability for Engineers), September.2022
 * Teaching assistant (Head TA) for VE216 (Intro to signals and systems), May.2021 
   
  Skills
 ======
 * Programming: Python, Matlab, C++
+* Framework: Pytorch
+* TOEFL: 102 (R:30 L:27 S:22 W:23), 103 for TOEFL best score
+* GRE: 320+3.5
 
 Social Activity
 ======

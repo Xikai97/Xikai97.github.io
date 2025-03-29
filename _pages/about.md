@@ -12,7 +12,8 @@ I am a PhD candidate with research interests in longitudinal learning for biomed
 
 News
 ======
-* [03/2022] Paper on Multi-layer Clustering-based Sparsifying Transform Leanring Model for LDCT reconstruction has been [Submitted to Medical Physics](https://arxiv.org/abs/2203.11565). 
-* [02/2022] I got the <font color='red'>Outstanding Graduate Award</font> at Shanghai Jiao Tong University!
-* [11/2021] I got admitted by Ph.D program with the Department of Computer Science and Engineering at the Chinese University of Hong Kong! 
-* [10/2021] I got the <font color='red'>Graduate National Scholarship</font>!
+* [03/2025] Our work [MM-DURA](http://doi.org/10.1002/mp.17767) for Alzheimer's disease prediction has been published in **Medical Physics**. 
+* [12/2024] Our work MST-former has been published in **IEEE J-BHI**.
+* [12/2024] One paper has been accepted by **BIBM 2024**. 
+* [10/2024] One paper has been accepted by **IEEE TMI**.
+* [10/2024] One paper has been accepted by **IMICCAI 2024**.

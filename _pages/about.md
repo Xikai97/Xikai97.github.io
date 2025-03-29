@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD student with interests lying in medical image analysis, self-supervised learning, reinforcement learning, and medical image reconstruction. I got my bachelar degree **(Honor)** from [Chu Kochen Honors College](http://ckc.zju.edu.cn/), Zhejiang University in 2019. After that, I joined the [Computational Imaging Lab](https://www.ji.sjtu.edu.cn/research/laboratories/laboratory-detail/523/) at the [University of Michigan-Shanghai Jiao Tong University Joint Institute (UM-SJTU JI)](https://www.ji.sjtu.edu.cn/) and received my Master degree in 2022. Now, I am a PhD student at Chinese University of Hong Kong (CUHK), Computer Science and Engineering Department. I will continue my interdisciplinary research between medical image analysis and machine learning under the supervision of [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/).
-
+I am a PhD candidate with research interests in longitudinal learning for biomedical data analysis, vision-language models, and CT image reconstruction. I earned my bachelor's degree with **honors** from the [Chu Kochen Honors College](http://ckc.zju.edu.cn/) at Zhejiang University in 2019. Subsequently, I joined the [Computational Imaging Lab](https://www.ji.sjtu.edu.cn/research/laboratories/laboratory-detail/523/) at the Shanghai Jiao Tong University, where I completed my master's degree in 2022. Currently, I am pursuing my PhD in the Department of Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). Under the supervision of Prof. Pheng Ann Heng.
 
 News
 ======

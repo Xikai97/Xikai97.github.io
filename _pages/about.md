@@ -16,4 +16,4 @@ News
 * [12/2024] Our work [MST-former](https://ieeexplore.ieee.org/abstract/document/10816575) has been published in **IEEE J-BHI**.
 * [12/2024] One paper has been accepted by **BIBM 2024**. 
 * [10/2024] One paper has been accepted by **IEEE TMI**.
-* [10/2024] One paper has been accepted by **IMICCAI 2024**.
+* [10/2024] One paper has been accepted by **MICCAI 2024**.

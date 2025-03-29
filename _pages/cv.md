@@ -54,7 +54,7 @@ Professional Activity
 Teaching
 ======
 * Teaching assistant for CSCI 2040 (Introduction to Python), September.2024
-* Teaching assistant for ENGG 1110F (Problem Solving By Programming ), September.2023
+* Teaching assistant for ENGG 1110F (Problem Solving By Programming), September.2023
 * Teaching assistant (Head TA) for ENGG 2760A (Probability for Engineers), September.2022
 * Teaching assistant (Head TA) for VE216 (Intro to signals and systems), May.2021 
   

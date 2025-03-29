@@ -13,13 +13,12 @@ Contact
 ======
 * Tel: +852 51021009
 * Email: xkyang22@cse.cuhk.edu.hk
-* Wechat: yangxk6565189
 
 Education
 ======
 * B.S. in Information Engineering, Chu Kochen Honors College, Zhejiang University, 2019
 * M.S. in Electronic Science and Technology, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2022
-* Admitted in Ph.D program with Computer Science and Engineering Department, Chinese University of Hong Kong, 2022
+* Ph.D Candidate with Computer Science and Engineering Department, Chinese University of Hong Kong, 2024-Now
 
 Honors & Awards
 ======
@@ -47,27 +46,22 @@ Presentations
 
 Professional Activity
 ======
+* Serve as a reviewer of IEEE Transactions on Neural Networks and Learning Systems
 * Serve as a reviewer of IEEE Transactions on Computational Imaging
+* Serve as a reviewer of MICCAI 2024, 2035.
   
  
 Teaching
 ======
+* Teaching assistant for CSCI 2040 (Introduction to Python), September.2024
+* Teaching assistant for ENGG 1110F (Problem Solving By Programming ), September.2023
 * Teaching assistant (Head TA) for ENGG 2760A (Probability for Engineers), September.2022
 * Teaching assistant (Head TA) for VE216 (Intro to signals and systems), May.2021 
   
  Skills
 ======
-* Programming: Python, Matlab, C++
-* Framework: Pytorch
-* TOEFL: 102 (R:30 L:27 S:22 W:23), 103 for TOEFL best score
-* GRE: 320+3.5
+* Programming: Python, C++, Matlab
+* Framework: Pytorch, tensorflow
 
-Social Activity
-======
-* Member, Support Education Team to West Region of Chu Kochen Honors College, July.2016 
-
-Hobbies
-======
-* Basketball, Swimming, Badminton
   
 

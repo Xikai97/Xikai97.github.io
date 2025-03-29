@@ -18,7 +18,7 @@ Education
 ======
 * B.S. in Information Engineering, Chu Kochen Honors College, Zhejiang University, 2019
 * M.S. in Electronic Science and Technology, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2022
-* Ph.D Candidate with Computer Science and Engineering Department, Chinese University of Hong Kong, 2024-Now
+* Ph.D student in Computer Science and Engineering Department, Chinese University of Hong Kong, 2022-Now
 
 Honors & Awards
 ======

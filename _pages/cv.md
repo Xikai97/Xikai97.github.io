@@ -48,7 +48,7 @@ Professional Activity
 ======
 * Serve as a reviewer of IEEE Transactions on Neural Networks and Learning Systems
 * Serve as a reviewer of IEEE Transactions on Computational Imaging
-* Serve as a reviewer of MICCAI 2024, 2035.
+* Serve as a reviewer of MICCAI 2024, 2025.
   
  
 Teaching

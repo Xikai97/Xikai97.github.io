@@ -12,6 +12,7 @@ I am a PhD candidate with research interests in longitudinal learning for biomed
 
 News
 ======
+* [06/2025] Our work [Med-MIM](https://github.com/xikai97/med-mim) has been accepted by **MICCAI2025**. 
 * [03/2025] Our work [MM-DURA](http://doi.org/10.1002/mp.17767) for Alzheimer's disease prediction has been published in **Medical Physics**. 
 * [12/2024] Our work [MST-former](https://ieeexplore.ieee.org/abstract/document/10816575) has been published in **IEEE J-BHI**.
 * [12/2024] One paper has been accepted by **BIBM 2024**. 

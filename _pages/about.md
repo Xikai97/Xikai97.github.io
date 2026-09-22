@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate with research interests in longitudinal learning for biomedical data analysis, vision-language models, and CT image reconstruction. I earned my bachelor's degree with **honors** from the [Chu Kochen Honors College](http://ckc.zju.edu.cn/) at Zhejiang University in 2019. Subsequently, I joined the [Computational Imaging Lab](https://www.ji.sjtu.edu.cn/research/laboratories/laboratory-detail/523/) at the Shanghai Jiao Tong University, where I completed my master's degree in 2022. Currently, I am pursuing my PhD in the Department of Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). Under the supervision of Prof. Pheng Ann Heng.
+I received my PhD degree in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK) in August 2026, under the supervision of Prof. Pheng-Ann Heng. My research interests lie in model self-improvement, vision-language models for healthcare, longitudinal learning for biomedical data analysis, and CT image reconstruction. Before that, I obtained my bachelor's degree with **honors** from the [Chu Kochen Honors College](http://ckc.zju.edu.cn/) at Zhejiang University in 2019, and my master's degree from the [Computational Imaging Lab](https://www.ji.sjtu.edu.cn/research/laboratories/laboratory-detail/523/) at Shanghai Jiao Tong University in 2022.
 
 News
 ======

@@ -12,6 +12,8 @@ I am a PhD candidate with research interests in longitudinal learning for biomed
 
 News
 ======
+* [08/2026] Our work [NTRL-Code](https://github.com/Xikai97/NTRL-Code) has been accepted as Main paper by **EMNLP2026**. 
+* [03/2026] Our work [SurgPub-Video](https://github.com/Yaoqian-Li/SurgPub-Video) has been accepted by **AAAI2026**. 
 * [06/2025] Our work [Med-MIM](https://github.com/xikai97/med-mim) has been accepted by **MICCAI2025**. 
 * [03/2025] Our work [MM-DURA](http://doi.org/10.1002/mp.17767) for Alzheimer's disease prediction has been published in **Medical Physics**. 
 * [12/2024] Our work [MST-former](https://ieeexplore.ieee.org/abstract/document/10816575) has been published in **IEEE J-BHI**.
